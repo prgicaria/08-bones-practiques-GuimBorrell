@@ -1,4 +1,4 @@
-#! usr/bin/env python
+#!/usr/bin/env python
 
 '''bones_practiques. Dona el quocient i el
 residu a partir del divisor i el dividend
